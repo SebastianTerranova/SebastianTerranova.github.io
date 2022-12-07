@@ -1,0 +1,69 @@
+#blinkText {
+        color: #2d38be;
+        transition: 0.5s;
+}
+
+body {
+        background-image: linear-gradient(to right, white, fuchsia, blue);
+}
+
+#dataTable {
+        background-image: linear-gradient(to bottom, white, skyblue 75%);
+}
+
+header{
+        text-align: center;
+}
+
+.button{
+        width: 100px;
+        height: 30px;
+        background-color: white;
+        border-radius: 12px;
+        border-color: lightblue;
+}
+
+.buttonlg{
+        width: 200px;
+        height: 30px;
+        background-color: white;
+        border-radius: 12px;
+        border-color: lightblue;
+}
+
+nav{
+        height: 600px;
+        width: 200px;
+        float: left;
+        padding: 5px;
+        line-height: 30px;
+    
+}
+
+footer{
+        text-align: center;
+}
+
+a:link {
+        color: green;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:visited {
+        color: #AA336A;
+        background-color: transparent;
+        text-decoration: none;
+      }
+      
+      a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+      }
+      
+      a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+      }

@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to right, white, forestgreen);
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    height: 10000px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+
+footer{
+    text-align: center;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #AA336A;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
